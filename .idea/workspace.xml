@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3516e7a-05d0-46b1-a9fb-c0ce1850e672" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/blockchain.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -121,6 +122,7 @@
       <workItem from="1731480867893" duration="184000" />
       <workItem from="1731481124058" duration="8081000" />
       <workItem from="1731510858160" duration="4335000" />
+      <workItem from="1731523910979" duration="677000" />
     </task>
     <servers />
   </component>
